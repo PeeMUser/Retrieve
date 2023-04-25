@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7db62046bd808064a866087fce872956
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Angsana New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02ce8a83525f3494792de72fd93c8635, type: 3}
+  - {fileID: 12800000, guid: 156a82d6b5a068d4db1b89e376758605, type: 3}
+  - {fileID: 12800000, guid: 735988a6427a87c488c0ac44e056c928, type: 3}
+  - {fileID: 12800000, guid: 379e08f350aedd0459c4b70111b46485, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
